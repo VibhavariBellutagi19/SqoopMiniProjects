@@ -13,10 +13,10 @@ Apache Sqoop supports following fetures -
 In this project, we are mainly focused on automating the sqoop commands using shell script. Sqoop Automation performs below operations - 
   1) SqoopImport.sh
   2) SqoopExport.sh
-  3) SqoopIncrementalLoad.sh
+  3) SqoopIncremental.sh
   4) SqoopPasswordSecurityIntegration.sh
-  5) SqoopJobCreation.sh
-  6) HandlingSqoopJobFailure.sh
+  5) SqoopJob.sh
+  6) SqoopStagingTable.sh
   7) SqoopWithHive.sh
 
 Prerequisite :- 1.Hadoop HDFS with SQOOP 2.MySQL Database with username:root
